@@ -14,6 +14,7 @@
 - Git学习
 - UCOSIII学习
 - OLED的u8g2库学习
+- QT学习
 - ......
 
 
